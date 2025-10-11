@@ -1,7 +1,7 @@
 # Magnetic Stirrer (im too lazy to buy)
 
 ## Concept Drawing (i cant draw):
-
+<img width="723" height="743" alt="1760224206-wayshot" src="https://github.com/user-attachments/assets/d7886e5d-f9b3-4ef9-aa68-5c48ec1b863d" />
 
 ## BOM(b):
 All prices are in CAD unless specified otherwise.
@@ -10,4 +10,3 @@ All prices are in CAD unless specified otherwise.
  - https://www.aliexpress.com/item/1005005069962079.html (motor, $2.99,)
  - https://www.aliexpress.com/item/1005007476350816.html (motor controller, $2.82,)
  - https://www.aliexpress.com/item/1005009009575529.html (usbc input, $3.11,)
-<img width="723" height="743" alt="1760224206-wayshot" src="https://github.com/user-attachments/assets/d7886e5d-f9b3-4ef9-aa68-5c48ec1b863d" />
