@@ -6,13 +6,16 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Magnetic Stirrer**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/419).
-
-
 ## 10/11/2025 - Make a BOM(b)  
 
 Find some aliexpress parts to use for magnetic stirrer. I'm not gonna make my own pcb for this since its a pretty simple project. This project should only use aliexpress parts so that its cheap. IDK what else to put in this entry: aaaaaaaaaaaaaaaaaaa
 ![1760221977-wayshot.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--57ac10dd05181477e3c2bd471d38c80e60311292/1760221977-wayshot.png)
+  
+
+## 11/6/2025 - Make electrical and assembly related drawings  
+
+I made an image for the electrical stuff with cirkit designer and a concept of the assembly with excalidraw. I think all the components in the electrical drawing are the exact same except for the motor. Next thing I'll do is make some 3d files to act as a case.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--90411d82737fe1933060d74c9a9c320239fef177/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--a2681ef2ec090a51ba4b20fee14a0cf116587b03/image.png)
   
 
