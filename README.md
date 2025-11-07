@@ -27,6 +27,6 @@ All prices are in CAD unless specified otherwise.
 | 1 | Motor Controller | https://www.aliexpress.com/item/1005007476350816.html | $2.82 | 1 |
 | 1 | USB-C Input Module | https://www.aliexpress.com/item/1005009009575529.html | $3.11 | 1 |
 
-**Subtotal:** $23.16 CAD  
-**HST (13% in ON):** $3.01 CAD  
-**Total:** **$26.17 CAD** ($18.54 USD)
+**Subtotal:** $23.16
+**HST (13% in ON):** $3.01
+**Total:** **$26.17**
