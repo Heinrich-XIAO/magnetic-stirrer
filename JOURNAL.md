@@ -25,3 +25,12 @@ I made an image for the electrical stuff with cirkit designer and a concept of t
 
 It wasn't too difficult since the project is pretty simple, but I had to make the hole pretty big since I've had a lot of trouble in the past with holes for usb being too small, so now it's pretty tiny. also, there's no lid since a lid would make it basically impossible to do anything without taking everything apart, and i'll probably just superglue a layer of aluminium on it. (aluminium cuz it can't be magnetic).  
 
+## 11/7/2025 - Make onshape assembly  
+
+Everything is assembled now in the onshape assembly. Also i added the onshape assembly to the readme in the github repo. 
+
+https://cad.onshape.com/documents/ff0ba0f393685a59497a6f1c/w/39114c7836282aeabcc57222/e/73359346d93e47f7483dfd25?renderMode=0&uiState=690e1166cf3c804366ec47e5
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5867734a308db333c228353813a29b329acbcc26/image.png)
+  
+
