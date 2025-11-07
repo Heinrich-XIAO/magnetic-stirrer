@@ -12,7 +12,12 @@ I made this because I got really interested in instant things (ex. instant coffe
 <img width="647" height="791" alt="image" src="https://github.com/user-attachments/assets/5c141e72-c2cc-4e26-a1ac-9c7d892340f3" />
 
 ## 3D Assembly
+### Insides:
 <img width="848" height="869" alt="image" src="https://github.com/user-attachments/assets/9b0b09f5-d39f-4d9a-9cac-3c87d047649e" />
+
+### Outsides:
+<img width="848" height="869" alt="image" src="https://github.com/user-attachments/assets/3ae59fd0-8628-45f4-9de0-ffbb7cb41340" />
+
 
 
 https://cad.onshape.com/documents/ff0ba0f393685a59497a6f1c/w/39114c7836282aeabcc57222/e/73359346d93e47f7483dfd25?renderMode=0&uiState=690e1166cf3c804366ec47e5
