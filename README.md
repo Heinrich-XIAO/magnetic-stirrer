@@ -16,7 +16,8 @@ I made this because I got really interested in instant things (ex. instant coffe
 <img width="848" height="869" alt="image" src="https://github.com/user-attachments/assets/9b0b09f5-d39f-4d9a-9cac-3c87d047649e" />
 
 ### Outsides:
-<img width="848" height="869" alt="image" src="https://github.com/user-attachments/assets/3ae59fd0-8628-45f4-9de0-ffbb7cb41340" />
+<img width="848" height="869" alt="image" src="https://github.com/user-attachments/assets/65b76945-6fc0-4779-a502-76fdd2d65809" />
+
 
 
 
