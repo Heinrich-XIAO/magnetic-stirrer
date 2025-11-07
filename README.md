@@ -13,7 +13,8 @@ I made this because I got really interested in instant things (ex. instant coffe
 
 ## 3D Assembly
 <img width="1501" height="869" alt="image" src="https://github.com/user-attachments/assets/35851aa0-a949-4665-9b4e-fc5fa8a0fa6f" />
-[https://cad.onshape.com/documents/ff0ba0f393685a59497a6f1c/w/39114c7836282aeabcc57222/e/73359346d93e47f7483dfd25?renderMode=0&uiState=690e1166cf3c804366ec47e5](https://cad.onshape.com/documents/ff0ba0f393685a59497a6f1c/w/39114c7836282aeabcc57222/e/73359346d93e47f7483dfd25?renderMode=0&uiState=690e1166cf3c804366ec47e5)
+
+https://cad.onshape.com/documents/ff0ba0f393685a59497a6f1c/w/39114c7836282aeabcc57222/e/73359346d93e47f7483dfd25?renderMode=0&uiState=690e1166cf3c804366ec47e5
 
 ## BOM:
 All prices are in CAD unless specified otherwise.
