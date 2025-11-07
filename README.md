@@ -11,6 +11,9 @@ I made this because I got really interested in instant things (ex. instant coffe
 ## Electrical stuffs
 <img width="647" height="791" alt="image" src="https://github.com/user-attachments/assets/5c141e72-c2cc-4e26-a1ac-9c7d892340f3" />
 
+## 3D Assembly
+<img width="1501" height="869" alt="image" src="https://github.com/user-attachments/assets/35851aa0-a949-4665-9b4e-fc5fa8a0fa6f" />
+
 ## BOM:
 All prices are in CAD unless specified otherwise.
  - https://www.aliexpress.com/item/1005010012275611.html (20mmx5mm magnets, $3.40+shipping,$3.40 + $5.61 = $9.01 after shipping)
