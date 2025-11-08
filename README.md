@@ -33,7 +33,7 @@ All prices are in CAD unless specified otherwise.
 
 | Quantity | Product Name | Product Link | Product Cost (CAD) | Product Amount | Notes |
 |---:|---|---|---:|---:|---|
-| 1 | 20mm × 5mm Magnets | https://www.aliexpress.com/item/1005010012275611.html | $9.01 | 1 | I couldn't find any cheaper magnets that would be large enough to stir much of anything.
+| 1 | 20mm × 5mm Magnets | https://www.aliexpress.com/item/1005010012275611.html | $9.01 | 1 | I couldn't find any magnets that had cheaper shipping. Most either were really expensive with free shipping or like this where its cheap but has expensive shipping.
 | 1 | Motor Shaft Attachment (28T) | https://www.aliexpress.com/item/32958728099.html | $5.23 | 1 | |
 | 1 | Motor | https://www.aliexpress.com/item/1005005069962079.html | $2.99 | 1 | |
 | 1 | Motor Controller | https://www.aliexpress.com/item/1005007476350816.html | $2.82 | 1 | |
