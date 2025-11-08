@@ -31,13 +31,13 @@ All prices are in CAD unless specified otherwise.
  - https://www.aliexpress.com/item/1005007476350816.html (motor controller, $2.82,)
  - https://www.aliexpress.com/item/1005009009575529.html (usbc input, $3.11,)
 
-| Quantity | Product Name | Product Link | Product Cost (CAD) | Product Amount |
-|---:|---|---|---:|---:|
-| 1 | 20mm × 5mm Magnets | https://www.aliexpress.com/item/1005010012275611.html | $9.01 | 1 |
-| 1 | Motor Shaft Attachment (28T) | https://www.aliexpress.com/item/32958728099.html | $5.23 | 1 |
-| 1 | Motor | https://www.aliexpress.com/item/1005005069962079.html | $2.99 | 1 |
-| 1 | Motor Controller | https://www.aliexpress.com/item/1005007476350816.html | $2.82 | 1 |
-| 1 | USB-C Input Module | https://www.aliexpress.com/item/1005009009575529.html | $3.11 | 1 |
+| Quantity | Product Name | Product Link | Product Cost (CAD) | Product Amount | Notes |
+|---:|---|---|---:|---:|---|
+| 1 | 20mm × 5mm Magnets | https://www.aliexpress.com/item/1005010012275611.html | $9.01 | 1 | Magnets are just this expensive. Smaller ones are cheaper but they won't be able to stir much.
+| 1 | Motor Shaft Attachment (28T) | https://www.aliexpress.com/item/32958728099.html | $5.23 | 1 | |
+| 1 | Motor | https://www.aliexpress.com/item/1005005069962079.html | $2.99 | 1 | |
+| 1 | Motor Controller | https://www.aliexpress.com/item/1005007476350816.html | $2.82 | 1 | |
+| 1 | USB-C Input Module | https://www.aliexpress.com/item/1005009009575529.html | $3.11 | 1 | |
 
 
 
